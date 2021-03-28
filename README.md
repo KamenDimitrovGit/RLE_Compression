@@ -1,2 +1,2 @@
 # AI
-# Exercises from the AI course
+## Exercises from the AI course
